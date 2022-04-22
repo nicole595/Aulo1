@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lusitana&display=swap');
+*{font-family: "Lusitana"; 
+margin:0;
+padding:0;
+outline:0;
+font-weight:400;
+box-sizing: border-box;
+}
+:root{
+    --primary: #2BC2F1;
+    --primary-light: #9BD6E9;
+    --secundary: #FFFFFF;
+    --third: #000000;
+
+}
+header{
+    display: flex;
+}
